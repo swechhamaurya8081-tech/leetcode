@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -14,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -31,4 +33,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
