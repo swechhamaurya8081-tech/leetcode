@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
