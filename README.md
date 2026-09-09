@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -39,5 +40,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
