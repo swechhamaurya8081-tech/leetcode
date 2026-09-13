@@ -17,6 +17,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -59,8 +60,10 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
