@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 ## String
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
@@ -60,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0867-transpose-matrix) |
