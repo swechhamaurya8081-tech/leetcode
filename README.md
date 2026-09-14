@@ -20,6 +20,7 @@
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
+| [0867-transpose-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -61,9 +62,11 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
