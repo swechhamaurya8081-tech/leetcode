@@ -22,6 +22,7 @@
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
@@ -69,6 +71,7 @@
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
@@ -77,4 +80,8 @@
 | [0054-spiral-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/swechhamaurya8081-tech/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
